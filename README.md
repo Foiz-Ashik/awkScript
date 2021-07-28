@@ -6,8 +6,7 @@
 My script(myScript.sh) will use wget to download a csv consisting of top companies sorted by Symbol,Name,Sector. 
 
 ## Step 2: 
-
-Then it will take out the Sector and Symbol then print out just the company names.
+It will take out the Sector and Symbol then print out just the company names.
 
 
 ## Preview of the Script

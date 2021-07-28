@@ -3,7 +3,7 @@
 
 ## Step 1: 
 
-My script will use wget to download a csv consisting of top companies sorted by Symbol,Name,Sector. 
+My script(myScript.sh) will use wget to download a csv consisting of top companies sorted by Symbol,Name,Sector. 
 
 ## Step 2: 
 
